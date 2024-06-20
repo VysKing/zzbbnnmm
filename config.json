@@ -1,0 +1,4 @@
+{
+    "prefix": "g.",
+    "mongooseConnectionString": "mongodb+srv://bruh:oZ8GENCxKdzv52qu@cluster0.o4xaujq.mongodb.net/?retryWrites=true&w=majority"
+}
